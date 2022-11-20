@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niteshbagde
-- 👀 I’m interested in Data Science, web app dev & GIS.
+- 👀 I’m interested in Data Science, Web App Dev & GIS.
 - 🌱 I’m currently learning Data Science...
 - 💞️ I’m looking to collaborate on Data Science and GIS work
 - 📫 How to reach me ... 
