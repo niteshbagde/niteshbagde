@@ -3,7 +3,7 @@
 - 🌱 I’m currently exploring and learning Data Science ...
 - 💞️ I’m looking forward to collaborate on Data Science and GIS projects
 - 📫 We can connect on ... 
--     email - bagdenitesh@gmail.com / niteshbagde17@gmail.com
+  - email - bagdenitesh@gmail.com / niteshbagde17@gmail.com
 
 <!---
 niteshbagde/niteshbagde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
